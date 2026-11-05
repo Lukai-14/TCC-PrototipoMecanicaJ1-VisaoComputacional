@@ -1,7 +1,7 @@
 =========================================
       RELATORIO DA SESSAO DE TERAPIA     
 =========================================
-Total de Repeticoes: 5
-Amplitude Maxima (Lado Direito): 119 deg
-Amplitude Maxima (Lado Esquerdo): 134 deg
+Total de Repeticoes: 0
+Amplitude Maxima (Lado Direito): 28 deg
+Amplitude Maxima (Lado Esquerdo): 26 deg
 =========================================
